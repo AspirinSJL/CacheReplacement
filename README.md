@@ -7,7 +7,7 @@ CacheReplacement
 Contents
 ----------------
   1. policies.cpp & polices.h: implement 4 polices which are FIFO, LIFO, LRU, OPT
-  2. generate.cpp: generate memory accesses sequence
+  2. generate.cpp: generate memory accesses sequence given matrices
   3. main.cpp: test the policies
   4. in.txt: data for test2
   5. Makefile: GNU version
