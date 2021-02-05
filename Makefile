@@ -1,4 +1,3 @@
-
 objects = main.o policies.o generate.o
 
 test: $(objects)
